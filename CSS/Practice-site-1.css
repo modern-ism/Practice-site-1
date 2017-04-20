@@ -52,122 +52,13 @@ table {
 
 /* This is where my HTML begins */
 
-body {
-	background-color: indianred
-}
-
 h1 {
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
 	font-size: 20pt;
-}
-
-h1 span {
-	height: 200px;
-	position: absolute;
-	width: 20px;
-	left: 0;
-	top: 0;
-	transform-origin: bottom center;
-}
-
-div {
-	align-content: center;
-	padding: 100px;
-	width: 600px;
 }
 
 p {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
 }
 
-/* This is for the rotation, using the .letting jCommand */
-.char1 {
-	transform: rotate(8deg);
-}
-.char2 {
-	transform: rotate(14deg);
-}
-.char3 {
-	transform: rotate(19deg);
-}
-.char4 {
-	transform: rotate(22deg);
-}
-.char5 {
-	transform: rotate(24deg);
-}
-.char6 {
-	transform: rotate(29deg);
-}
-.char7 {
-	transform: rotate(33deg);
-}
-.char8 {
-	transform: rotate(33deg);
-}
-.char9 {
-	transform: rotate(40deg);
-}
-.char10 {
-	transform: rotate(45deg);
-}
-.char11 {
-	transform: rotate(49deg);
-}
-.char12 {
-	transform: rotate(52deg);
-}
-.char13 {
-	transform: rotate(55deg);
-}
-.char14 {
-	transform: rotate(61deg);
-}
-.char15 {
-	transform: rotate(66deg);
-}
-.char16 {
-	transform: rotate(71deg);
-}
-.char17 {
-	transform: rotate(76deg);
-}
-.char18 {
-	transform: rotate(95deg);
-}
-.char19 {
-	transform: rotate(100deg);
-}
-.char20 {
-	transform: rotate(105deg);
-}
-.char21 {
-	transform: rotate(110deg);
-}
-.char22 {
-	transform: rotate(115deg);
-}
-.char23 {
-	transform: rotate(120deg);
-}
-.char24 {
-	transform: rotate(125deg);
-}
-.char25 {
-	transform: rotate(130deg);
-}
-.char26 {
-	transform: rotate(135deg);
-}
-.char27 {
-	transform: rotate(140deg);
-}
-.char28 {
-	transform: rotate(145deg);
-}
-.char29 {
-	transform: rotate(150deg);
-}
-.char30 {
-	transform: rotate(155deg);
-}
+
