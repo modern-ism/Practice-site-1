@@ -54,11 +54,21 @@ table {
 
 h1 {
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
-	font-size: 20pt;
+	font-weight: bold;
+	font-size: 36pt;
 }
 
 p {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
 }
 
+img.resize {
+	max-width: 40%;
+	max-height: 40%;
+}
+
+.sidenav {
+	height: 100%;
+	
+}
 
